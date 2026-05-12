@@ -41,8 +41,8 @@ An `.xlsx` file with three sheets:
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/AcxionFoodservice/Tableau_Replacements.git
-cd Tableau_Replacements
+git clone https://github.com/AcxionFoodservice/Tableau_Projects.git
+cd Tableau_Projects
 pip install -r requirements.txt
 
 # 2. Set credentials
