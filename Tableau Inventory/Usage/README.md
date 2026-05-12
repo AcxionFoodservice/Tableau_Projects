@@ -1,4 +1,4 @@
-# Tableau Replacements
+# Tableau Projects
 
 Python tooling for Tableau Cloud administration and reporting, complementing the [Salesforce-Data-Transformation](https://github.com/AcxionFoodservice/Salesforce-Data-Transformation) pipeline.
 
